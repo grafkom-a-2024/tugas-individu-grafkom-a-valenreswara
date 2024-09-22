@@ -11,8 +11,7 @@ Berikut adalah hasil pengerjaan tugas:
  <br>
    Disana, objek bisa ditranslasi, dirotasi, serta melakukan scaling terhadap objek kubus melalui slider yang disediakan. Serta jika kita melakukan rotasi, maka lighting pada kubus juga akan ikut berubah. <br>
 2. Berikut adalah hasil menerapkan texture
-   <br>
-   ![image](https://github.com/user-attachments/assets/b0ccfe6f-bb5f-4c82-b719-55b896753b67)
+   
+![Screenshot 2024-09-22 173958](https://github.com/user-attachments/assets/4ecc7cb1-e002-4fc6-a1d8-2770d53318c6)
 
-   <br>
    Bisa kita lihat bahwa kubus sebelumnya kini sudah memiliki tekstur gambar-gambar, bukan hanya warna polos saja.
